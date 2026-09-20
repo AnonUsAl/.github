@@ -1,10 +1,9 @@
 # AnonUsAl
 
+<h1 align="center">AnonUsAl</h1>
 <p align="center">
-  <h1>AnonUsAl</h1>
   <b>高中生 · 自学开发者 · 工具控 · 隐私 / 网络 / 代码爱好者</b>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20nonstop-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Linux%20%7C%20Networking-22C55E?style=flat-square" />
